@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou all </h2>
+<h1> Razu Saha --devops learning with Java maven project</h1>
+<h2> This is my first hands on project</h2>
+<h2> Lets make another project </h2>
